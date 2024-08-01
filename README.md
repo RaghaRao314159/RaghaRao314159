@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aura +1000 👋
 [![Linkedin: anmol](https://img.shields.io/badge/-Raghavendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ragha-rao/)](https://www.linkedin.com/in/ragha-rao/)
 ![GitHub followers](https://img.shields.io/github/followers/ragharao314159?label=Follow&style=social)
 
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragharao314159&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragharao314159&hide_progress=true)
