@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragharao314159&hide_progress=falseshow_icons=true&theme=radical)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragharao314159&theme=tokyonight&hide_border=true" alt="Raghavendra's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragharao314159&theme=radical&hide_border=true" alt="Raghavendra's GitHub Stats" />
