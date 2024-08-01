@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragharao314159&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragharao314159&hide_progress=falseshow_icons=true&theme=radical)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragharao314159&theme=tokyonight&hide_border=true" alt="Raghavendra's GitHub Stats" />
