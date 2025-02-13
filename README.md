@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Raghavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragharao314159&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragharao314159&langs_count=8&hide_progress=falseshow_icons=true&theme=radical&hide=jupyter%20notebook)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragharao314159&theme=radical&hide_border=true" alt="Raghavendra's GitHub Stats" />
