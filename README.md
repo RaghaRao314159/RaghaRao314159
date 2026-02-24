@@ -2,6 +2,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-Raghavendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ragha-rao/)](https://www.linkedin.com/in/ragha-rao/)
 ![GitHub followers](https://img.shields.io/github/followers/ragharao314159?label=Follow&style=social)
 
+- Personal Website: https://ragharao314159.github.io/I-like-pi
 - 🔭 Have fun playing around on https://donkey-type-blush.vercel.app
 
 <!--
